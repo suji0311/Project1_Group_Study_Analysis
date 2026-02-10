@@ -1,3 +1,4 @@
+Note: The dataset uploaded here is a partially sampled and anonymized version.
 
 
 # BDA 11th Cohort Group Activity Dropout Analysis
