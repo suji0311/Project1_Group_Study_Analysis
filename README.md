@@ -141,7 +141,8 @@ structural stability over individual screening.
 
 
 ## 2.2 참여 방식별 차이
-<img width="701" height="446" alt="image" src="https://github.com/user-attachments/assets/aa25294a-eeb5-4b09-a96d-31251ee3b9cb" />
+<img width="689" height="468" alt="image" src="https://github.com/user-attachments/assets/4a43ef6c-1d4e-4a98-bbcf-f3b8414c9e36" />
+
 
 
 
