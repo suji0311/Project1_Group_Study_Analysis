@@ -154,12 +154,14 @@ p < 0.05
 즉, 온라인 환경에서 이탈 위험 약 1.7배 증가함.
 
 ## 2.3 조장 이탈 영향
+<img width="447" height="289" alt="image" src="https://github.com/user-attachments/assets/ac918d24-76f1-44af-83db-42abd19957cc" />
 
 
 가장 큰 차이 관측됨.
 조장 유지 조 이탈률 약 8%
 조장 이탈 발생 조 이탈률 약 55%
 로지스틱 회귀 결과:
+<img width="467" height="289" alt="image" src="https://github.com/user-attachments/assets/6ead3854-4ce8-469f-a223-5161efd54fae" />
 
 
 
